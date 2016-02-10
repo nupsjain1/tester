@@ -4,7 +4,7 @@
 .settings/
 .classpath
 target/
-
+.metadata/
 
 #Intellij
 .idea/
