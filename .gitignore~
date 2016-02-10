@@ -1,0 +1,14 @@
+.*.dir
+.vlt
+.project
+.settings/
+.classpath
+target/
+
+
+#Intellij
+.idea/
+*.iml
+*.log
+*.class
+.pmd
