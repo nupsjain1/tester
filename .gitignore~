@@ -1,14 +1,14 @@
-.*.dir
-.vlt
-.project
-.settings/
-.classpath
-target/
+/.*.dir
+/.vlt
+/.project
+/.settings/
+/.classpath
+/target/
 
 
 #Intellij
-.idea/
-*.iml
-*.log
-*.class
-.pmd
+/.idea/
+/*.iml
+/*.log
+/*.class
+/.pmd
